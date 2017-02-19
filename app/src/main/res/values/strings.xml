@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RepasoAndroid</string>
+    <string name="nombre">Nombre</string>
+    <string name="addContact">Agregar Contacto</string>
+</resources>
